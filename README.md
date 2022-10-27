@@ -1,6 +1,6 @@
 #### Uber-pickups-in-NYC
 
-##**Abstraction**
+**Abstraction**
 This project aims to analysis the pickup locations of users of uber and make meaningful inferences based on them. Another obkective to simply create representative 
 visualizations for the import features
 
